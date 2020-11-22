@@ -1,26 +1,10 @@
-# Hi there 👋
-# I'm Ville from Finland
+# Hi there 👋 I'm Ville from Finland
 
-## I´m Software Engineering student @ Metropolia University of Applied Sciences
+## I´m a Software Engineering student @ Metropolia University of Applied Sciences
 - Degree Program in Information and Communication Technology, majoring in Mobile Solutions, final year
 
 ## Languages & Frameworks:
 - Swift <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - Java/Kotlin <img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
-- Javascript & Typescript (Web/node.js)<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
+- Javascript & Typescript (Web/node.js) <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 - Python <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
-
-<!--
-**xpyx/xpyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
