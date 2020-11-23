@@ -6,6 +6,7 @@
 ## Most recently used languages & frameworks:
 - Swift<img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - Javascript / Typescript<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
+- Node.js<img align="left" alt="node" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nodejs.svg"/>
 
 
 
