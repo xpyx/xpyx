@@ -3,6 +3,9 @@
 - Degree Program in Information and Communication Technology
 - Majoring in Mobile Solutions, final year
 
+## My main motivation to learn is to keep earth habitable
+- I want my kids to be able to live in a healthy world
+
 ## Most recently used languages & frameworks:
 - Swift<img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - React Native<img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
@@ -16,5 +19,4 @@
 <!--- ## I enjoy learning new stuff!
 - It´s the best feeling you can get, when you come up with an elegant solution to a real-world-problem
 
-## My main motivation to learn is to save the world
-- I want my kids to be able to live in a healthy environment--->
+--->
