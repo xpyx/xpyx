@@ -10,3 +10,9 @@
 - Python<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 - Java<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
 - R<img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>
+
+## I enjoy learning new stuff!
+- It´s the best feeling you can get, when you come up with an elegant solution to a real-world-problem
+
+## My main motivation to learn is to save the world
+- I want my kids to be able to live in a healthy environment
