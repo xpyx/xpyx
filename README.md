@@ -1,4 +1,5 @@
-## I´m a Software Engineering student @ Metropolia University of Applied Sciences
+## I´m a Software Engineering student
+- (Metropolia University of Applied Sciences)[https://www.metropolia.fi/en]
 - Degree Program in Information and Communication Technology, majoring in Mobile Solutions, final year
 
 ## Most recently used languages & frameworks:
