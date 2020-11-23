@@ -1,6 +1,7 @@
 ## I´m a Software Engineering student
 - Studying at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en)
-- Degree Program in Information and Communication Technology, majoring in Mobile Solutions, final year
+- Degree Program in Information and Communication Technology
+- Majoring in Mobile Solutions, final year
 
 ## Most recently used languages & frameworks:
 - Swift<img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
