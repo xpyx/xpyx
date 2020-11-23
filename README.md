@@ -1,5 +1,3 @@
-# Hi there 👋 I'm Ville from Finland
-
 ## I´m a Software Engineering student @ Metropolia University of Applied Sciences
 - Degree Program in Information and Communication Technology, majoring in Mobile Solutions, final year
 
