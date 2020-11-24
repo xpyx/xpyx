@@ -34,7 +34,7 @@
 - XCode<img align="left" alt="xcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg"/>
 
 
-## Stuff I´m really proud of
+## Stuff that I am really proud of
 
 - My son, born 2017
 - My work as an expert for the Parliamentary Committee on Future. Check out the <a href="https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/tuvj_11+2018.pdf">publication here</a>
