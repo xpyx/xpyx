@@ -16,15 +16,16 @@
 
 ## Some of my recent projects
 
-- <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>[WIP] a mobile shop which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments<br/>
-- <img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>a platform independent mobile app for organising outdoor parties<br/>
-- <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>a "search engine / map" web app to find touring bands´ schedules and tour routes using the Spotify API<br/>
-- <img align="left" alt="typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>the backend for a real world SaaS project for a company in the summer of 2020 <br/>
-- <img align="left" alt="postgres" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg"/>the database migrations for the same SaaS project
-- <img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/>a chat client / server school project<br/>
-- <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>school projects in Aalto University<br/>
-- <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>web-applications with Spring Break for school projects and a personal web-application for a band<br/>
-- <img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>FFT analysis/transforms and graphics manipulation<br/>
+- [ Swift, XCode ] a mobile shop which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments [WIP]<br/>
+- [ React Native ] a platform independent mobile app for organising outdoor parties<br/>
+- [ Node.js, Express ] backend for an app for bird watchers
+- [ Javascript ] a "search engine / map" web app to find touring bands´ schedules and tour routes using the Spotify API<br/>
+- [ WebStorm, Typescript, Docker, TSOA ] the backend for a real world SaaS project for a company in the summer of 2020 <br/>
+- [ DataGrip, PostgrSQL ] the database migrations for the same SaaS project
+- [ Kotlin ]a chat client / server school project<br/>
+- [ Python 3]school projects in Aalto University<br/>
+- [ Java, Spring Break ]web-applications with Spring Break for school projects and a personal web-application for a band<br/>
+- [ R ]FFT analysis/transforms and graphics manipulation<br/>
 
 ## IDEs I am comfortable working with
 
