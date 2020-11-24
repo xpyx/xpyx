@@ -1,8 +1,8 @@
 ## I am a Software Engineering student
 - Studying at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en)
 - Degree Program in Information and Communication Technology
-- Majoring in Mobile Solutions, final year, about 180 study points done (of total 240)
-- I have also done studies in Open University from Helsinki University and Aalto University 
+- Majoring in Mobile Solutions, graduating in fall 2021
+- I have also done studies in Open University from Helsinki University and Aalto University (Java, Python, Elements of AI, Cyber Security Base)
 
 ## Languages & frameworks I have been using recently
 - Swift<img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
