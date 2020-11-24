@@ -25,7 +25,7 @@
 - <b>[ Kotlin ]</b> a chat client / server school project<br/>
 - <b>[ Python 3]</b> school projects in Aalto University<br/>
 - <b>[ Java, Spring Break ]</b> web-applications with Spring Break for school projects and a personal web-application for a band<br/>
-- <b>[ R ]</b> FFT analysis/transforms and graphics manipulation<br/>
+- <b>[ R ]</b> Statistics, math, FFT analysis/transforms and graphics manipulation<br/>
 
 ## IDEs I am comfortable working with
 
