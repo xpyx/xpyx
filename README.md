@@ -17,7 +17,7 @@
 
 - <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>a mobile shop which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments<br/>
 - <img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>a platform independent mobile app for organising outdoor parties<br/>
-- <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>a "search engine / map" web app to find touring band´s schedules and tour routes using the Spotify API<br/>
+- <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>a "search engine / map" web app to find touring bands´ schedules and tour routes using the Spotify API<br/>
 - <img align="left" alt="typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>the backend for a real world SaaS project for a company in the summer of 2020 <br/>
 - <img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/>a chat client / server school project<br/>
 - <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>school projects in Aalto University<br/>
