@@ -16,16 +16,16 @@
 
 ## Some of my recent projects
 
-- [ Swift ] a mobile shop which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments [WIP]<br/>
-- [ React Native, Nativebase ] a platform independent mobile app frontend for organising outdoor parties<br/>
-- [ Node.js, Express, Vanilla Javascript ] backend for an app for bird watchers
-- [ Vanilla Javascript ] a "search engine / map" web app to find touring bands´ schedules and tour routes using the Spotify API<br/>
-- [ Node.js, Typescript, Docker, TSOA ] the backend for a real world SaaS project for a company in the summer of 2020 <br/>
-- [ PostgrSQL ] the database migrations for the same SaaS project
-- [ Kotlin ] a chat client / server school project<br/>
-- [ Python 3] school projects in Aalto University<br/>
-- [ Java, Spring Break ] web-applications with Spring Break for school projects and a personal web-application for a band<br/>
-- [ R ] FFT analysis/transforms and graphics manipulation<br/>
+- <b>[ Swift ]</b> a mobile shop which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments<br/>
+- <b>[ React Native, Nativebase ]</b> a platform independent mobile app frontend for organising outdoor parties<br/>
+- <b>[ Node.js, Express, Vanilla Javascript ]</b> backend for an app for bird watchers
+- <b>[ Vanilla Javascript ]</b> a "search engine / map" web app to find touring bands´ schedules and tour routes using the Spotify API<br/>
+- <b>[ Node.js, Typescript, Docker, TSOA ]</b> the backend for a real world SaaS project for a company in the summer of 2020 <br/>
+- <b>[ PostgrSQL, FlyWay ]</b> the database migrations for the same SaaS project
+- <b>[ Kotlin ]</b> a chat client / server school project<br/>
+- <b>[ Python 3]</b> school projects in Aalto University<br/>
+- <b>[ Java, Spring Break ]</b> web-applications with Spring Break for school projects and a personal web-application for a band<br/>
+- <b>[ R ]</b> FFT analysis/transforms and graphics manipulation<br/>
 
 ## IDEs I am comfortable working with
 
