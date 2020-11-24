@@ -15,14 +15,14 @@
 
 ## Recent projects:
 
-- <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>developing a "Buy / Sell flow" school project which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments<br/>
-- <img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>developing a platform independent school project for organising outdoor parties<br/>
-- <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>developing a "search engine / map" school project to find touring band´s schedules and tour routes using the Spotify API<br/>
-- <img align="left" alt="typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>developing the backend for a real world Software as a Service project for a company in the summer of 2020 <br/>
-- <img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/>developing school projects<br/>
-- <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>developing school projects in Aalto University<br/>
-- <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>developing web-applications with Spring Break for school projects and a personal web-application for a band<br/>
-- <img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>doing FFT analysis and transforms in math classes in school<br/>
+- <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>a "Buy / Sell flow" school project which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments<br/>
+- <img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>a platform independent school project for organising outdoor parties<br/>
+- <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>a "search engine / map" school project to find touring band´s schedules and tour routes using the Spotify API<br/>
+- <img align="left" alt="typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>the backend for a real world Software as a Service project for a company in the summer of 2020 <br/>
+- <img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/>for developing school projects<br/>
+- <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>for school projects in Aalto University<br/>
+- <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>for web-applications with Spring Break for school projects and a personal web-application for a band<br/>
+- <img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>for doing FFT analysis and transforms in math classes in school<br/>
 
 ## IDEs I am comfortable working with:
 - Visual Studio Code<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
