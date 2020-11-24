@@ -15,7 +15,7 @@
 
 ## Recent projects:
 
-- <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>developing a "Buy / Sell flow" school project which uses Zalando´s Zircle and Auth0 APIs<br/>
+- <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>developing a "Buy / Sell flow" school project which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments<br/>
 - <img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>developing a platform independent school project for organising outdoor parties<br/>
 - <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>developing a "search engine / map" school project to find touring band´s schedules and tour routes using the Spotify API<br/>
 - <img align="left" alt="typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>developing the backend for a real world Software as a Service project for a company in the summer of 2020 <br/>
