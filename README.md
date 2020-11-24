@@ -32,3 +32,12 @@
 - WebStorm<img align="left" alt="webstorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webstorm.svg"/>
 - DataGrip<img align="left" alt="xcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg"/>
 - XCode<img align="left" alt="xcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg"/>
+
+
+## Stuff I´m really proud of
+
+- My son, born 2017
+- My work as an expert for the Parliamentary Committee on Future. Check out the <a href="https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/tuvj_11+2018.pdf">publication here</a>
+- The (corona) grant I got from <a href="https://www.taike.fi/en/frontpage">Taike</a> for researching AI assisted music production in 2020
+- My band <a href="https://plutonium74.com/">Plutonium 74</a> and record company <a href="https://rapurecords.com/">Rapu Records</a>
+
