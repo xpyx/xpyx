@@ -17,5 +17,5 @@
 - Visual Studio Code<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
 - Android Studio<img align="left" alt="android studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
 - WebStorm<img align="left" alt="webstorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webstorm.svg"/>
-- XCode<img align="left" alt="xcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg"/>
 - DataGrip<img align="left" alt="xcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg"/>
+- XCode<img align="left" alt="xcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg"/>
