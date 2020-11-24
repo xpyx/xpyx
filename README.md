@@ -16,16 +16,16 @@
 
 ## Some of my recent projects
 
-- [ Swift, XCode ] a mobile shop which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments [WIP]<br/>
-- [ React Native ] a platform independent mobile app for organising outdoor parties<br/>
-- [ Node.js, Express ] backend for an app for bird watchers
-- [ Javascript ] a "search engine / map" web app to find touring bands´ schedules and tour routes using the Spotify API<br/>
-- [ WebStorm, Typescript, Docker, TSOA ] the backend for a real world SaaS project for a company in the summer of 2020 <br/>
-- [ DataGrip, PostgrSQL ] the database migrations for the same SaaS project
-- [ Kotlin ]a chat client / server school project<br/>
-- [ Python 3]school projects in Aalto University<br/>
-- [ Java, Spring Break ]web-applications with Spring Break for school projects and a personal web-application for a band<br/>
-- [ R ]FFT analysis/transforms and graphics manipulation<br/>
+- [ Swift ] a mobile shop which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments [WIP]<br/>
+- [ React Native, Nativebase ] a platform independent mobile app frontend for organising outdoor parties<br/>
+- [ Node.js, Express, Vanilla Javascript ] backend for an app for bird watchers
+- [ Vanilla Javascript ] a "search engine / map" web app to find touring bands´ schedules and tour routes using the Spotify API<br/>
+- [ Node.js, Typescript, Docker, TSOA ] the backend for a real world SaaS project for a company in the summer of 2020 <br/>
+- [ PostgrSQL ] the database migrations for the same SaaS project
+- [ Kotlin ] a chat client / server school project<br/>
+- [ Python 3] school projects in Aalto University<br/>
+- [ Java, Spring Break ] web-applications with Spring Break for school projects and a personal web-application for a band<br/>
+- [ R ] FFT analysis/transforms and graphics manipulation<br/>
 
 ## IDEs I am comfortable working with
 
