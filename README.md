@@ -3,7 +3,7 @@
 - Degree Program in Information and Communication Technology
 - Majoring in Mobile Solutions, final year
 
-## Most recently used languages & frameworks:
+## Languages & frameworks I´ve been recently using:
 - Swift<img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - React Native<img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
 - Javascript<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
