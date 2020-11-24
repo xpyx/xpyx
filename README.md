@@ -3,7 +3,7 @@
 - Degree Program in Information and Communication Technology
 - Majoring in Mobile Solutions, final year
 
-## Languages & frameworks I have been using recently:
+## Languages & frameworks I have been using recently
 - Swift<img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - React Native<img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
 - Javascript<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
@@ -13,7 +13,7 @@
 - Java<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
 - R<img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>
 
-## Recent projects:
+## Some of my recent projects
 
 - <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>a mobile shop which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments<br/>
 - <img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>a platform independent mobile app for organising outdoor parties<br/>
@@ -23,6 +23,9 @@
 - <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>for school projects in Aalto University<br/>
 - <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>for web-applications with Spring Break for school projects and a personal web-application for a band<br/>
 - <img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>for doing FFT analysis/transforms and graphics manipulation<br/>
+
+## IDEs I am comfortable working with
+
 
 - Visual Studio Code<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
 - Android Studio<img align="left" alt="android studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
