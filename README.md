@@ -2,6 +2,7 @@
 - Studying at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en)
 - Degree Program in Information and Communication Technology
 - Majoring in Mobile Solutions, final year
+- I have also done studies in Open University from Helsinki University and Aalto University 
 
 ## Languages & frameworks I have been using recently
 - Swift<img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
