@@ -1,7 +1,7 @@
 ## I am a Software Engineering student
 - Studying at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en)
 - Degree Program in Information and Communication Technology
-- Majoring in Mobile Solutions, final year
+- Majoring in Mobile Solutions, final year, about 180 study points done (of total 240)
 - I have also done studies in Open University from Helsinki University and Aalto University 
 
 ## Languages & frameworks I have been using recently
