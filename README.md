@@ -24,7 +24,6 @@
 - <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>for web-applications with Spring Break for school projects and a personal web-application for a band<br/>
 - <img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>for doing FFT analysis/transforms and graphics manipulation<br/>
 
-## IDEs I am comfortable working with:
 - Visual Studio Code<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
 - Android Studio<img align="left" alt="android studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
 - WebStorm<img align="left" alt="webstorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webstorm.svg"/>
