@@ -5,14 +5,14 @@
 - I have also done studies in Open University from Helsinki University and Aalto University
 
 ## Languages & frameworks I have been using recently
-- Swift<img align="left" alt="swift" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
-- React Native<img align="left" alt="react" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
-- Javascript<img align="left" alt="javascript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
-- Typescript<img align="left" alt="typescript" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>
-- Kotlin<img align="left" alt="android" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/>
-- Python<img align="left" alt="python" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
-- Java<img align="left" alt="Java" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
-- R<img align="left" alt="R" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>
+- Swift<img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
+- React Native<img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
+- Javascript<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
+- Typescript<img align="left" alt="typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/>
+- Kotlin<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/>
+- Python<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
+- Java<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/>
+- R<img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>
 
 ## Some of my recent projects
 
@@ -29,11 +29,11 @@
 
 ## IDEs I am comfortable working with
 
-- Visual Studio Code<img align="left" alt="visual studio code" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
-- Android Studio<img align="left" alt="android studio" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
-- WebStorm<img align="left" alt="webstorm" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webstorm.svg"/>
-- DataGrip<img align="left" alt="xcode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg"/>
-- XCode<img align="left" alt="xcode" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg"/>
+- Visual Studio Code<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
+- Android Studio<img align="left" alt="android studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
+- WebStorm<img align="left" alt="webstorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webstorm.svg"/>
+- DataGrip<img align="left" alt="xcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg"/>
+- XCode<img align="left" alt="xcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg"/>
 
 ## Stuff that I am really proud of
 
