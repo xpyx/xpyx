@@ -40,4 +40,3 @@
 - My work as an expert for the Parliamentary Committee on Future. Check out the <a href="https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/tuvj_11+2018.pdf">publication here</a>
 - The (corona) grant I got from <a href="https://www.taike.fi/en/frontpage">Taike</a> for researching AI assisted music production in 2020
 - My band <a href="https://plutonium74.com/">Plutonium 74</a> and record company <a href="https://rapurecords.com/">Rapu Records</a>
-
