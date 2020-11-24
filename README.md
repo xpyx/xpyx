@@ -23,7 +23,7 @@
 - <b>[ Node.js, Typescript, Docker, TSOA ]</b> the backend for a real world SaaS project for a company in the summer of 2020 <br/>
 - <b>[ PostgreSQL, FlyWay ]</b> the database migrations for the same SaaS project
 - <b>[ Kotlin ]</b> a chat client / server school project<br/>
-- <b>[ Python 3]</b> school projects in Aalto University<br/>
+- <b>[ Python 3 ]</b> school projects in Aalto University<br/>
 - <b>[ Java, Spring Break ]</b> web-applications with Spring Break for school projects and a personal web-application for a band<br/>
 - <b>[ R ]</b> Statistics, math, FFT analysis/transforms and graphics manipulation<br/>
 
