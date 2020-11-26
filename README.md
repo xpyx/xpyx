@@ -1,10 +1,10 @@
-## I am a Software Engineering student
+## I´m a Software Engineering student
 - Studying at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en)
 - Degree Program in Information and Communication Technology
 - Majoring in Mobile Solutions, graduating in fall 2021
 - Also Open University studies in University of Helsinki and Aalto University
 
-## Languages & frameworks I have been using recently
+## Languages & frameworks I´ve been using recently
 - Swift<img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - React Native<img align="left" alt="react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
 - Javascript<img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
@@ -28,7 +28,7 @@
 - <b>[ Processing ]</b> finding out the possibilities to manipulate images and video<br/>
 - <b>[ R ]</b> Statistics, math, FFT analysis/transforms and graphics manipulation<br/>
 
-## IDEs I am comfortable working with
+## I´m down with these IDEs
 
 - Visual Studio Code<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"/>
 - Android Studio<img align="left" alt="android studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"/>
@@ -36,7 +36,7 @@
 - DataGrip<img align="left" alt="xcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg"/>
 - XCode<img align="left" alt="xcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xcode.svg"/>
 
-## Stuff that I am really proud of
+## Stuff that I´m really proud of
 
 - My son, born 2017
 - My work as an expert for the Parliamentary Committee on Future. Check out the <a href="https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/tuvj_11+2018.pdf">publication here</a>
