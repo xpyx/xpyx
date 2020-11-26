@@ -16,7 +16,7 @@
 
 ## Some of my recent projects
 
-- <b>[ Swift ]</b> a mobile shop which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments<br/>
+- <b>[ Swift ]</b> a mobile shop using Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments<br/>
 - <b>[ React Native, Nativebase ]</b> a platform independent mobile app frontend for organising outdoor parties<br/>
 - <b>[ Node.js, Express, Vanilla Javascript ]</b> backend for an app for bird watchers
 - <b>[ Vanilla Javascript ]</b> a search engine web app to find touring bands´ schedules and tour routes using the Songkick API<br/>
