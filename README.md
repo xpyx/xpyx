@@ -19,7 +19,7 @@
 - <b>[ Swift ]</b> a mobile shop which uses Zalando´s Zircle API for product data, Auth0 API for authentication and Stripe API for payments<br/>
 - <b>[ React Native, Nativebase ]</b> a platform independent mobile app frontend for organising outdoor parties<br/>
 - <b>[ Node.js, Express, Vanilla Javascript ]</b> backend for an app for bird watchers
-- <b>[ Vanilla Javascript ]</b> a "search engine / map" web app to find touring bands´ schedules and tour routes using the Songkick API<br/>
+- <b>[ Vanilla Javascript ]</b> a search engine web app to find touring bands´ schedules and tour routes using the Songkick API<br/>
 - <b>[ Node.js, Typescript, Docker, TSOA ]</b> the backend for a real world SaaS project for a Finnish full-solution digital agency <br/>
 - <b>[ PostgreSQL, Flyway ]</b> the database migrations for the same SaaS project
 - <b>[ Kotlin ]</b> a chat client / server school project<br/>
