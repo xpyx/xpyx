@@ -1,7 +1,7 @@
 ## I´m a Software Engineering student
 - Studying at [Metropolia University of Applied Sciences](https://www.metropolia.fi/en)
 - Degree Program in Information and Communication Technology
-- Majoring in Mobile Solutions, graduating in fall 2021
+- Majoring in <b>Mobile Solutions</b>, graduating in fall 2021
 - Also Open University studies in University of Helsinki and Aalto University
 
 ## Languages & frameworks I´ve been using recently
