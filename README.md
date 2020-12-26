@@ -16,6 +16,7 @@
 
 ## Some of my recent projects
 
+- <b>[ Python, Tensorflow 2, GCE ]</b> using <a href="https://github.com/rncm-prism/prism-samplernn" target="_blank">PRiSM SampleRNN</a> to generate breakbeats for music production<br/>
 - <b>[ Swift ]</b> a mobile shop using Zalando´s Zircle API for product data and Auth0 API for authentication<br/>
 - <b>[ React Native, Nativebase ]</b> a platform independent mobile app frontend for organising outdoor parties<br/>
 - <b>[ Node.js, Express, Vanilla Javascript ]</b> backend for an app for bird watchers
