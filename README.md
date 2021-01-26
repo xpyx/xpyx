@@ -17,6 +17,7 @@
 
 ## Some of my recent projects
 
+- <b>[ Docker, Node, React Native, Expo ]</b> a fun side-project. Check it out <a href="https://github.com/xpyx/solita-academy-2021" target="_blank">here</a><br/>
 - <b>[ HTML5, CSS, Jekyll, Markdown ]</b> a webpage and a blog for my professional endeavours: <a href="https://www.xpyx.fi" target="_blank">xpyx.fi</a><br/>
 - <b>[ Python, Tensorflow 2, GCE ]</b> using <a href="https://github.com/rncm-prism/prism-samplernn" target="_blank">PRiSM SampleRNN</a> to generate breakbeats for music production<br/>
 - <b>[ Swift ]</b> a mobile shop using Zalando´s Zircle API for product data and Auth0 API for authentication<br/>
