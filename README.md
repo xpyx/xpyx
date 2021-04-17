@@ -16,7 +16,7 @@
 - R<img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>
 
 ## Some of my recent projects
-- <b>[ Kotlin, GraphQL, MQTT, GTFS-RT ]</b> A (WIP) <a href="https://github.com/xpyx/nokia-hsl" target="_blank">mobile app</a> for visualising transportation problems in the HSL public transport region <br/>
+- <b>[ Kotlin, GraphQL, MQTT, GTFS-RT ]</b> <a href="https://github.com/xpyx/nokia-hsl" target="_blank">Android app</a> for visualising transportation problems in the HSL public transport region <br/>
 - <b>[ Kotlin ]</b> Barcode scanner app in Kotlin <a href="https://github.com/xpyx/SensorBasedMobileProject" target="_blank">here</a><br/>
 - <b>[ Docker, Node, React Native, Expo ]</b> a fun side-project. Check it out <a href="https://github.com/xpyx/solita-academy-2021" target="_blank">here</a><br/>
 - <b>[ HTML5, CSS, Jekyll, Markdown ]</b> a webpage and a blog for my professional endeavours: <a href="https://www.xpyx.fi" target="_blank">xpyx.fi</a><br/>
