@@ -17,6 +17,7 @@
 - R<img align="left" alt="R" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg"/>
 
 ## Some of my recent projects
+- <b>[ Node.js, Typescript, Docker, TSOA, React ]</b> Full Stack development, a SaaS product for a Finnish full-solution digital agency <br/>
 - <b>[ Kotlin, GraphQL, MQTT, GTFS-RT ]</b> <a href="https://github.com/xpyx/nokia-hsl" target="_blank">Android app</a> for visualising transportation problems in the HSL public transport region <br/>
 - <b>[ Kotlin ]</b> Barcode scanner app in Kotlin <a href="https://github.com/xpyx/SensorBasedMobileProject" target="_blank">here</a><br/>
 - <b>[ Docker, Node, React Native, Expo ]</b> a fun side-project. Check it out <a href="https://github.com/xpyx/solita-academy-2021" target="_blank">here</a><br/>
@@ -26,7 +27,6 @@
 - <b>[ React Native, Nativebase ]</b> a platform independent mobile app frontend for organising outdoor parties<br/>
 - <b>[ Node.js, Express, Vanilla Javascript ]</b> backend for an app for bird watchers
 - <b>[ Vanilla Javascript ]</b> a search engine web app to find touring bands´ schedules and tour routes using the Songkick API<br/>
-- <b>[ Node.js, Typescript, Docker, TSOA ]</b> the backend for a real world SaaS project for a Finnish full-solution digital agency <br/>
 - <b>[ PostgreSQL, Flyway ]</b> the database migrations for the same SaaS project
 - <b>[ Kotlin ]</b> a chat client / server school project<br/>
 - <b>[ Python 3 ]</b> school projects in Aalto University<br/>
