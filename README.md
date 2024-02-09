@@ -1,1 +1,1 @@
-Hi! I'm a software engineer @ Distrikt, Helsinki.
+Hi! I'm a Full Stack Developer @ SOK, Helsinki.
